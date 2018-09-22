@@ -1,0 +1,1 @@
+This is first chapter of story. This is just to learn git.
